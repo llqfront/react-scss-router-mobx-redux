@@ -12,3 +12,5 @@ v14.15.3
 8、axios ok
 9、props state
 ```
+
+npm install 就可以了
